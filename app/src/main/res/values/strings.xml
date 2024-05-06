@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+    <string name="left">LEFT</string>
+    <string name="up">UP</string>
+    <string name="gameOver">Game Over ! Play Again</string>
+    <string name="score">score</string>
+    <string name="newGame">New Game</string>
+
+</resources>   
